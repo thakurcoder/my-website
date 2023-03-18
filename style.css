@@ -1,0 +1,86 @@
+body{
+    margin: 0;
+    background-color: skyblue;
+}
+div{
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+.one_div{
+    text-align: center;
+    /* padding: 50px; */
+}
+.sun{
+    position: relative;
+    height: 300px;
+    width: auto;
+    right: 600px;
+}
+.mountain{
+    position: relative;
+    height: 400px;
+    width: 800px;
+    left:335px;
+    bottom:100px;
+    /* right: 20px;
+    bottom: 10px; */
+    
+}
+.name{
+    color: rgb(4, 101, 101);
+    
+}
+.name:hover{
+    color: gold;
+}
+p{
+    font-size: 21px;
+    /* clear: left; */
+}
+.aman_photo{
+    height: 200px;
+    width: auto;
+    /* float: left;
+    margin-right: 30px; */
+       
+}
+
+.two_div{
+    position: relative;
+    bottom: 50px;
+    text-align: center;
+    line-height: 2;
+}
+hr{
+    size: 3;
+    border: dotted 6px;
+    border-bottom: none;
+    border-color: rgb(104, 104, 208);
+    width: 40%;
+    
+}
+table{
+    margin: auto;
+    border-style:solid;
+    border-spacing: 50px;
+    /* border-collapse: collapse; */
+}
+.education{
+    margin: 200px auto;
+}
+.last_contener{
+    background-color: brown;
+    width: 100%;
+    padding: 1%;
+    margin: 10px 0 0 0;
+}
+a{
+    color: rgb(220, 247, 41);
+    margin: 20px;
+    font-size: x-large;
+    text-decoration: none;
+}
+a:hover{
+    color: darkgreen;
+}
