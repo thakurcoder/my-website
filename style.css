@@ -29,6 +29,8 @@ div{
 }
 .name{
     color: rgb(4, 101, 101);
+    position: relative;
+    z-index: 1;
     
 }
 .name:hover{
